@@ -2,6 +2,6 @@
 Image carousel with clickable buttons.
 
 ## Languages used:
-Html, CSS & Javascript
+Html & CSS
 
 ### Images are cluded 😄
